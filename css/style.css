@@ -3,12 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+/* HEADER  */
 header{
     padding: 10px 20px;
     height: 80px;
 }
-
+/* LOGO  */
 .logo{
     vertical-align: middle;
 }
@@ -17,8 +17,40 @@ header{
     font-weight: 700;
     vertical-align: middle;
 }
+/* CONTAINER  */
 .container{
     background-color: rgb(235, 232, 232);
     padding: 100px;
     
+}
+.container-button{
+    height: 50px;
+    width: 1200px;
+    background-color: white;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-top: 5px;
+}
+/* BUTTON */
+.button{
+    padding: 0 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-size: 12px;
+    height: 60%;
+}
+.white{
+    color: #fff;
+}
+
+.bg_blue{
+    background-color: rgb(93, 176, 253);
+    border: 2px none;
+
+}
+
+#add_section{
+    border: 2px solid lightgray;
+    color: lightgrey;
+    background-color: #fff;
 }
