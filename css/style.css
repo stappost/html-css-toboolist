@@ -54,3 +54,41 @@ header{
     color: lightgrey;
     background-color: #fff;
 }
+.container-lists{
+    width: 1200px;
+    background-color: white;
+    margin: 3px auto;
+    padding-left: 50px;
+   
+}
+/* SECTIONS  */
+section{
+    padding-top: 30px;
+}
+h3{
+    font-size: 25px;
+    display: inline-block;
+}
+/* LISTS  */
+li{
+    list-style: none;
+    font-weight: 530;
+    font-size: 20px;
+    line-height: 2;
+
+}
+/* CHECK  */
+.check{
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    margin-right: 10px;
+    padding: 3px 5px;
+    font-size: 10px;
+    font-weight: 900;
+}
+.type{
+    font-size: 12px;
+    padding:5px 10px;
+    border-radius: 20px;
+}
