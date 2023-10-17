@@ -77,18 +77,36 @@ li{
     line-height: 2;
 
 }
-/* CHECK  */
-.check{
-    color: green;
-    border: 1px solid green;
+/* SIGN  */
+.sign{
     border-radius: 50%;
     margin-right: 10px;
     padding: 3px 5px;
     font-size: 10px;
     font-weight: 900;
 }
+/* CHECK  */
+.check{
+    color: green;
+    border: 1px solid green;
+}
+/* CROSS  */
+.cross{
+    color: red;
+    border: 1px solid red;
+
+}
 .type{
     font-size: 12px;
     padding:5px 10px;
     border-radius: 20px;
+}
+.bg_purple{
+    background-color: rgb(167, 88, 204);
+}
+.bg_green{
+    background-color: rgb(74, 145, 56);
+}
+.bg_orange{
+    background-color: orange;
 }
