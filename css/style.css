@@ -6,21 +6,22 @@
 /* HEADER  */
 header{
     padding: 10px 20px;
-    height: 80px;
+    height: 150px;
 }
 /* LOGO  */
 .logo{
     vertical-align: middle;
+    width: 100px;
 }
 .name-logo{
-    font-size: 50px;
+    font-size: 100px;
     font-weight: 700;
     vertical-align: middle;
 }
 /* CONTAINER  */
 .container{
     background-color: rgb(235, 232, 232);
-    padding: 100px;
+    padding: 50px;
     
 }
 .container-button{
@@ -30,6 +31,7 @@ header{
     margin: 0 auto;
     padding-left: 50px;
     padding-top: 5px;
+    border-radius: 10px 10px 0 0;
 }
 /* BUTTON */
 .button{
@@ -54,12 +56,14 @@ header{
     color: lightgrey;
     background-color: #fff;
 }
+/* CONTAINER LISTS  */
 .container-lists{
     width: 1200px;
     background-color: white;
     margin: 3px auto;
     padding-left: 50px;
     padding-bottom: 50px;
+    border-radius: 0 0 10px 10px;
 }
 /* SECTIONS  */
 section{
