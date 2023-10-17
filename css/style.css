@@ -3,3 +3,22 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header{
+    padding: 10px 20px;
+    height: 80px;
+}
+
+.logo{
+    vertical-align: middle;
+}
+.name-logo{
+    font-size: 50px;
+    font-weight: 700;
+    vertical-align: middle;
+}
+.container{
+    background-color: rgb(235, 232, 232);
+    padding: 100px;
+    
+}
